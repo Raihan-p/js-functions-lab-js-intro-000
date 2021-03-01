@@ -8,6 +8,6 @@ return `Happy holidays, ${name}!`
 function happyCustomHolidayTo(holiday, name) {
 return `Happy ${holiday}, ${name}!`
 }
-funtion holidayCoutdown(holiday,days) {
+funtion holidayCoutdown(holiday, days) {
 return `It's ${days} days until ${holiday}!`
 }
